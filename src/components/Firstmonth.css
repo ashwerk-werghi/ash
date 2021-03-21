@@ -1,0 +1,58 @@
+.yup{
+ font-family: Comic Sans;
+ font-size: 30px;
+ font-style: italic;
+ font-weight: bold;
+ font-variant: small-caps;
+ color: #ceaca8;
+ text-align: center;
+ border-color: #274472 ;
+ border-style: double;
+ border-width: 5px;
+ width: 500px;
+ margin-top: 150px;
+ margin-left: 700px;
+ padding-top: 20px;
+ padding-right: 20px;
+ padding-bottom: 20px;
+ padding-left: 20px;
+
+}
+
+.ney{
+    font-family: Brush Script MT;
+color: #C3E0E5;   
+font-size: 50px;
+ text-align: center;
+    text-transform: capitalize;
+    margin-top: 50px;
+   
+
+    
+}
+
+.op{
+    border-radius: 50%;
+    margin-top: 150px;
+    float: left;
+    border-color: #C39D99; 
+    border-style: solid;
+    width: 450px;
+    
+}
+
+.opps{
+    font-family: Brush Script MT;
+ font-size: 30px;
+ font-style: italic;
+ font-weight: bold;
+ font-variant: small-caps;
+ color: rgb(7, 7, 7);
+ text-align : center ;
+ text-decoration: overline;
+ margin-top: 100px;
+
+ 
+ 
+
+}

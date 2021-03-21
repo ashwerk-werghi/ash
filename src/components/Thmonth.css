@@ -1,0 +1,48 @@
+.th{
+    font-family: Brush Script MT;
+    text-align: center;
+    margin-top: 30px;
+    text-shadow: 1px 1px;
+    font-size: 80px;
+    color: #C3E0E5 ;
+}
+.mom{
+    font-family: Comic Sans;
+ font-size: 20px;
+ font-style: italic;
+ font-weight: bold;
+ font-variant: small-caps;
+ color: rgb(13, 13, 17);
+ text-align: center;
+ margin-top: 30px;
+ text-decoration: overline;
+ text-shadow: 1px 1px #C3E0E5
+}
+.sto{
+    font-family: Brush Script MT;
+    text-align: left;
+    margin-top: 30px;
+    text-shadow: 1px 1px;
+    font-size: 50px;
+    margin-left: 50px;
+    padding-top: 50px;
+}
+
+.stor{
+    font-family: Comic Sans;
+font-size: 20px;
+font-style: italic;
+font-weight: bold;
+font-variant: small-caps;
+color: rgb(13, 13, 17);
+text-align: center;
+padding-top: 10px;
+}
+.toge{
+    border-radius: 50%;
+    width:350px;
+   
+    float: left;
+    border-color: #CAB29F; 
+    border-style: solid;
+}

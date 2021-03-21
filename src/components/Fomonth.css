@@ -1,0 +1,146 @@
+.for{
+    font-family: Brush Script MT;
+    text-align: center;
+    margin-top: 30px;
+    text-shadow: 1px 1px;
+    font-size: 80px;
+    color: #0C2D48;
+}
+
+.cadre{
+    background-color: #F5F5DC;
+    width: 800px;
+
+    border: 15px double #2E8BC0;
+    padding: 20px;
+    margin-left:  150px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+}
+.par{
+    font-family: Comic Sans;
+ font-size: 20px;
+ font-style: italic;
+ font-weight: bold;
+ font-variant: small-caps;
+ color: rgb(13, 13, 17);
+ text-align: center;
+ margin-top: 30px;
+
+}
+.fori{
+    font-family: Brush Script MT;
+    text-align: left;
+    margin-top: 10px;
+    text-shadow: 1px 1px;
+    font-size: 50px;
+    margin-left: 500px;
+    padding-top: 10px;
+}
+
+.sm{
+    border-radius: 50%;
+    width:300px;
+    position:relative;
+    left: 20px;
+    bottom: 80px;
+    float: left;
+    border-color: #001F3D; 
+    border-style: solid;
+    
+}
+.yo{
+    font-family: Comic Sans;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: small-caps;
+    color: rgb(13, 13, 17);
+    text-align: center;
+    padding-top: 10px;
+    
+   
+}
+.dec{
+    margin-top: 200px;
+    margin-bottom:50px ;
+}
+.if{
+    font-family: Brush Script MT;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 50px;
+    padding-left: 50px;
+    text-shadow: 1px 1px;
+    font-size: 50px;
+    padding-top: 50px;
+   
+}
+.me{
+    font-family: Comic Sans;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: small-caps;
+    color: rgb(13, 13, 17);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    
+}
+.us{
+    font-family: Brush Script MT;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 50px;
+    padding-left: 50px;
+    text-shadow: 1px 1px;
+    font-size: 50px;
+    padding-top: 50px;
+
+}
+.love{
+    font-family: Comic Sans;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: small-caps;
+    color: rgb(13, 13, 17);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+
+}
+.there{
+    font-family: Brush Script MT;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 50px;
+    padding-left: 50px;
+    text-shadow: 1px 1px;
+    font-size: 50px;
+    padding-top: 50px;
+
+}
+.here{
+    font-family: Comic Sans;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: small-caps;
+    color: rgb(13, 13, 17);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+
+}
+.smi{
+    border-radius: 50%;
+    width:300px;
+    border-style: solid;
+    border-color: #C2B280;
+    bottom: 80px;
+    float: right;
+   
+}

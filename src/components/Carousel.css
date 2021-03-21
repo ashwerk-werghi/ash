@@ -1,0 +1,19 @@
+.just{
+    justify-content: center;
+    display: flex;
+    padding-top:80px;
+padding-left: 80px;
+padding-bottom: 10px;
+}
+
+.style{
+    color: rgb(255, 255, 255);
+    text-transform: capitalize;
+   
+    background-color: black;
+
+}
+
+.txxt{
+    text-align: center;
+}

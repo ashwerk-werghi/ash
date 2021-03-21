@@ -1,0 +1,60 @@
+.hi{
+    font-family: Brush Script MT;
+    color:#F5F5DC ;
+    font-size: 25px;
+    
+
+
+}
+
+.ktiba{
+    color: #0C2D48;
+    font-family: Brush Script MT;
+    text-align: center;
+    margin-top: 30px;
+    text-shadow: 1px 1px;
+    font-size: 80px;
+
+
+
+}
+.down{
+    font-family: Comic Sans;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: small-caps;
+    color: rgb(13, 13, 17);
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 80px;
+    text-decoration: overline;
+    text-shadow: 1px 0.5px #C3E0E5;
+    margin-right: 100px;
+   
+    border: 2px solid #C3E0E5;
+   padding: 30px;
+   border-radius: 2em / 5em;
+}
+
+
+.downn{
+    font-family: Comic Sans;
+     font-size: 30px;
+     font-style: italic;
+     font-weight: bold;
+     font-variant: small-caps;
+     color: rgb(13, 13, 17);
+     text-align: center;
+     margin-top: 30px;
+     
+    
+    }
+    .forever{
+        font-family: Brush Script MT;
+        font-size: 35px;
+        color: #C39D99;
+        text-align: center;
+        border-bottom: 2px dashed #0C2D48  ;
+        padding-top: 30px;
+    }

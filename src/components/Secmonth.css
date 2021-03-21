@@ -1,0 +1,101 @@
+.yuy{
+    font-family: comic sans;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: small-caps;
+    color: #CAB29F;
+    text-align: center;
+    margin-top: 50px;
+    float:right;
+    left: 800px;
+    height: 450px;
+    margin-top: 10px;
+    display: flex;
+    position: absolute;
+
+    left: 100px;
+    top: 650px;
+    width: 700px;
+    height: fit-content;
+
+    padding-left: 10px;
+    padding-top: 20px;
+
+    border-style: hidden  dotted dotted hidden;
+    border-color: #000000;
+    border-width: 5px;
+
+    ;
+   
+   
+   }
+   
+   .ne{
+    font-family: Brush Script MT;
+    text-align: center;
+    margin-top: 30px;
+    text-shadow: 1px 1px;
+    font-size: 80px;
+    color: #0C2D48;
+       
+   }
+   
+   .opi{
+   
+       margin-top: 80px;
+       border-radius: 200px 30px 200px;
+     border-image-width: 50% 2em 30% auto;
+
+
+
+       margin-left: 800px;
+   }
+   
+   .hey{
+       font-family: comic sans;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: small-caps;
+    color: #CAB29F;
+    text-align : center ;
+    border-style: hidden  dotted dotted hidden;
+    border-color: black;
+    width: fit-content;
+    margin-left: 600px;
+    padding-left: 50px;
+    margin-top: 100px;
+    border-width: 5px;
+   }
+
+  .ops{
+    font-family: comic sans;
+ font-size: 30px;
+ font-style: italic;
+ font-weight: bold;
+ font-variant: small-caps;
+ color: rgb(7, 7, 7);
+ text-align : center ;
+ border-style: hidden  dotted dotted hidden;
+ border-color: #CAB29F ;
+ width: fit-content;
+ margin-left: 300px;
+ padding-left: 30px;
+ margin-top: 100px;
+ margin-right: 300px;
+ border-width: 5px;
+ 
+}
+.wego{
+    font-family: Comic Sans;
+ font-size: 25px;
+ font-style: italic;
+ font-weight: bold;
+ font-variant: small-caps;
+ color: rgb(13, 13, 17);
+ text-align: left;
+ margin-top: 10px;
+ padding-bottom:10px ;
+
+}
